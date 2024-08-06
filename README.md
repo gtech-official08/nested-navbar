@@ -1,7 +1,8 @@
 
 # Responsive Nested Navbar / Multi-Navbar / Nav with Subnav 
 
-This is a full version of the code with installed the required resources like react icons, and other basic requirements.
+This project features a fully responsive nested navbar with multiple sub-nav items, built using React.js and Tailwind CSS. It ensures a seamless user experience across all devices.
+
 
 
 ## Installation
@@ -47,6 +48,11 @@ npm run dev -- --host
 
 
 ## Features
+- Fully responsive design
+- Nested sub-navigation items
+- Built with React.js
+- Styled with Tailwind CSS
+- Mobile-first approach
 
 
 ## Tech Stack
@@ -69,6 +75,16 @@ Live Demo:-
 
 ### Full Video Tutorial
 Video Link:- 
+
+
+
+### Repository Tags
+- Add relevant tags to your repository:
+  - react
+  - tailwind-css
+  - responsive-navbar
+  - nested-navigation
+  - frontend-development
 
 
 ## Author
